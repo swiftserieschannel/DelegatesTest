@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F3D77ADB-6FF8-4B29-9352-0FB4EC3E5E94"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FD2D8048-7491-4366-A1F2-0DD948EDC07D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DelegatesTest/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "clickedBtnGoToSecondVC(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FD2D8048-7491-4366-A1F2-0DD948EDC07D - 7bb633e0dc0a4476"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DelegatesTest.FirstViewController.clickedBtnGoToSecondVC(__C.UIButton) -&gt; ()"
+                  moduleName = "DelegatesTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chanderbhushan/Desktop/Projects/Tutorial%20Projects/DelegatesTest/DelegatesTest/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "87">
+               </Location>
+               <Location
+                  uuid = "FD2D8048-7491-4366-A1F2-0DD948EDC07D - 7bb633e0dc0a4476"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DelegatesTest.FirstViewController.clickedBtnGoToSecondVC(__C.UIButton) -&gt; ()"
+                  moduleName = "DelegatesTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chanderbhushan/Desktop/Projects/Tutorial%20Projects/DelegatesTest/DelegatesTest/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "628">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
